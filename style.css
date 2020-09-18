@@ -49,7 +49,7 @@ body {
   
   /* selected link */
   a:active {
-    color: blue;
+    color: rgb(95, 102, 185);
   }
   
 
